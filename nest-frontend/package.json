@@ -1,0 +1,19 @@
+{
+  "name": "blife",
+  "version": "1.0.0",
+  "description": "ชีวิตที่ดีกว่า.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Starting static server...\" && lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
